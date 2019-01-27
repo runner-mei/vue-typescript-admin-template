@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["menu1-1"],{"91b3":function(e,t,n){"use strict";n.r(t);var l=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticStyle:{padding:"30px"}},[n("el-alert",{attrs:{closable:!1,title:"menu 1-1",type:"success"}},[n("router-view")],1)],1)},c=[],s={},u=s,a=n("0c7c"),r=Object(a["a"])(u,l,c,!1,null,null,null);t["default"]=r.exports}}]);
+//# sourceMappingURL=menu1-1.f15e7ad4.js.map

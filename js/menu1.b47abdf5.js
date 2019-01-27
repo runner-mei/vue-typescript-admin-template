@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["menu1"],{e9bc:function(e,t,n){"use strict";n.r(t);var l=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticStyle:{padding:"30px"}},[n("el-alert",{attrs:{closable:!1,title:"menu 1"}},[n("router-view")],1)],1)},c=[],a={},r=a,u=n("0c7c"),i=Object(u["a"])(r,l,c,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=menu1.b47abdf5.js.map
